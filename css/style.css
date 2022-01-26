@@ -7,11 +7,7 @@
    padding: 0 15px;
 }
 
-.goods__row {
-}
-.swiper {
-   
-}
+
 .my-swiper {
    max-width: 1040px;
    height: 400px;
@@ -21,20 +17,13 @@
    justify-content: space-around;
    align-items: center;
 }
-.swiper-wrapper {
-}
-.my-swiper-wrapper {
-}
-.swiper-slide {
-}
+
 .my-swiper-slide {
    display: flex;
     justify-content: center;
 }
 /* ----------------------- */
-.slide {
 
-}
 .slide__item {
    min-width: 300px;
    display: flex;
@@ -74,12 +63,7 @@
 
 /* section bouquet */
 
-.bouquet {
-}
-.container {
-}
-.bouquet__row {
-}
+
 .bouquet__title {
    margin-top: 50px;
    text-align: center;
@@ -103,6 +87,4 @@
 .slide__item-dist{
    min-width: auto;
    padding: 15px;
-}
-.bouquet__descript {
 }
