@@ -1,6 +1,7 @@
 import GetData from "./modules/GetData.js";
 import RenderDuplicate from "./modules/GetBtnId.js";
 import InitSlider from "./modules/InitSlider.js"
+import CalcTotal from "./modules/CalcTotal.js";
 
 
 
@@ -17,3 +18,4 @@ const flowers = [
 GetData(flowers);
 RenderDuplicate();
 InitSlider();
+CalcTotal();

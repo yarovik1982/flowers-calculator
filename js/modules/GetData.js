@@ -14,7 +14,7 @@ const GetData = (data) => {
                         <div class="slide__item-image" style="background-color: ${item.color};"></div>
                         <div class="slide__item-title">${item.title}</div>
                         <div class="slide__item-price" data-price="${item.price}">${item.price} &#8381;</div>
-                        <button class="slide__item-btn" data-id="${item.id}">Добавить в букет</button>
+                        <button class="slide__item-btn is-button" data-id="${item.id}">Добавить в букет</button>
                      </div>
                   </div>
                </div>`

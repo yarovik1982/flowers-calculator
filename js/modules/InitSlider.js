@@ -4,7 +4,7 @@ const InitSlider = ()=>{
      
      slidesPerView: 1,
      spaceBetween: 20,
-      loop: true,
+      // loop: true,
       breakpoints:{
        1400:{
          slidesPerView:4,
